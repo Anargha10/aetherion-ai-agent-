@@ -7,6 +7,7 @@ __pycache__/
 env/
 venv/ # Your virtual environment directory
 *.env # Your environment variable file
+KMS/
 
 # Livekit Agents specific (common temporary files or logs)
 *.log
