@@ -1,7 +1,7 @@
 # Aetherion: The Sage AI Personal Assistant
 
 ![deno](https://drive.google.com/file/d/1x-0f93Jq0WU8VlENmtTCnHcAFYkVldNF/view?usp=drivesdk)
-*Consider adding a relevant image here that captures Aetherion's essence.*
+
 
 "Greetings. My name is Aetherion. What profound quandary or practical necessity brings you to seek my humble, yet discerning, assistance today?"
 
