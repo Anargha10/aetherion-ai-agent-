@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/ # Your virtual environment directory
+*.env # Your environment variable file
+
+# Livekit Agents specific (common temporary files or logs)
+*.log
+*.sqlite3 # If you were using a local database
+recordings/ # If your agent generates any audio/video recordings locally
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store # macOS
+Thumbs.db # Windows
